@@ -20,7 +20,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [Social Proof Section](xx)
+- Live Site URL: [Social Proof Section](https://pawel-gnat.github.io/Frontend-Mentor-Social-Proof-Section/)
 
 ## My process
 
